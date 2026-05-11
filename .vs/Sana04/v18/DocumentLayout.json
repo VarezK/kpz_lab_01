@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|c:\\users\\artem\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\sana04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|solutionrelative:sana04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|c:\\users\\artem\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\sana04\\class\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|solutionrelative:sana04\\class\\airplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|c:\\users\\artem\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\sana04\\class\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|solutionrelative:sana04\\class\\mydate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|c:\\users\\artem\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\sana04\\class\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|solutionrelative:sana04\\class\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|c:\\users\\artem\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043A\u043F\u0437\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\sana04\\class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456509B8-2A8D-4E89-A0D2-2B40A7A4E423}|Sana04\\Sana04.csproj|solutionrelative:sana04\\class\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Airplane.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\Airplane.cs",
+              "RelativeDocumentMoniker": "Sana04\\Class\\Airplane.cs",
+              "ToolTip": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\Airplane.cs",
+              "RelativeToolTip": "Sana04\\Class\\Airplane.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:11:38.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDate.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\MyDate.cs",
+              "RelativeDocumentMoniker": "Sana04\\Class\\MyDate.cs",
+              "ToolTip": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\MyDate.cs",
+              "RelativeToolTip": "Sana04\\Class\\MyDate.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:11:38.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\Currency.cs",
+              "RelativeDocumentMoniker": "Sana04\\Class\\Currency.cs",
+              "ToolTip": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\Currency.cs",
+              "RelativeToolTip": "Sana04\\Class\\Currency.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:11:38.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Program.cs",
+              "RelativeDocumentMoniker": "Sana04\\Program.cs",
+              "ToolTip": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Program.cs",
+              "RelativeToolTip": "Sana04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:11:38.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\Product.cs",
+              "RelativeDocumentMoniker": "Sana04\\Class\\Product.cs",
+              "ToolTip": "C:\\Users\\Artem\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441 2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041A\u041F\u0417\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0420\u043E\u0431\u043E\u0442\u0430 \u21161\\kpz_lab_01\\Sana04\\Class\\Product.cs",
+              "RelativeToolTip": "Sana04\\Class\\Product.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAwEwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:11:38.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
