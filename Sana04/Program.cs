@@ -5,6 +5,9 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 Console.OutputEncoding = Encoding.Unicode;
 Console.InputEncoding = Encoding.Unicode;
 
+const int EndOfMonthThreshold = 27;
+const float DefaultPhoneWeightGrams = 170f;
+
 int c, year1 = 2025, month1 = 1, day1, hours1, minutes1,
     year2, month2, day2, hours2, minutes2;
 Console.WriteLine("Введіть час відбуття:");
@@ -33,7 +36,7 @@ if (c == 2 && month1 == 12 && day1 == 31)
     Console.Write("Рік -  ");
     year2 = int.Parse(Console.ReadLine());
 }
-if (day1 > 27)
+if (day1 > EndOfMonthThreshold)
 {
     Console.Write("Місяць -  ");
     month2 = int.Parse(Console.ReadLine());
@@ -48,7 +51,7 @@ minutes2 = int.Parse(Console.ReadLine());
 
 MyDate startDate = new MyDate(year1, month1, day1, hours1, minutes1);
 MyDate finishDate;
-if (month1 == 12 && day1 > 27)
+if (month1 == 12 && day1 > EndOfMonthThreshold)
 {
     finishDate = new MyDate(year2, month2, day2, hours2, minutes2);
 }
@@ -104,7 +107,7 @@ else
 }
 
 
-float ProductCost, ProductWeight = 170;
+float ProductCost, ProductWeight = DefaultPhoneWeightGrams;
 int ProductAmount;
 Product phone;
 Console.Write("Введіть дані:\n Вартість товару: ");
@@ -112,7 +115,7 @@ ProductCost = float.Parse(Console.ReadLine());
 Console.Write("Кількість на складі: ");
 ProductAmount = int.Parse(Console.ReadLine());
 c = 0;
-Console.WriteLine("Вага товару: \n1)За замовчуванням(170г)\n2)Інша");
+Console.WriteLine($"Вага товару: \n1)За замовчуванням({DefaultPhoneWeightGrams}г)\n2)Інша");
 c = int.Parse(Console.ReadLine());
 if (c == 2)
 {
